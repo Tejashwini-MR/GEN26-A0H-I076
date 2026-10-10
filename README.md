@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I076
 ### Team Details
-#### **Team Name** <<<Nerdsquad>>> <br/>
+#### **Team Name** <<<"Nerdsquad">>> <br/>
 #### Team Members
 |         Role    |         👤 Name           |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |  Day scholar/Hosteller   |
 |:---------------:|:-------------------------:|:----------------------:|:---------------:|:-------------------------------:|-------------------------:| 
